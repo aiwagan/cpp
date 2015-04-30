@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/dsproj.dir/linkedlist01.cpp.o  -o dsproj -rdynamic 
